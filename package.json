@@ -1,5 +1,5 @@
 {
-  "name": "Time Waste",
+  "name": "time-waste",
   "version": "1.0.0",
   "description": "A non-invasive nudge of Time Spent on Website using an overlay",
   "main": "index.js",
