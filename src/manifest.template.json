@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
 
-  "name": "Chrome Extension TypeScript Starter",
-  "description": "Chrome Extension, TypeScript, Visual Studio Code",
+  "name": "Time Waste",
+  "description": "A non-invasive nudge of Time Spent on Website using an overlay",
   "version": "1.0",
 
   "options_ui": {
